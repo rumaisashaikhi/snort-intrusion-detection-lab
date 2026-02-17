@@ -1,8 +1,13 @@
-🛡 Snort Intrusion Detection Lab
+🔍 System Vulnerability Scanner Lab
 
-Configured Snort IDS to detect suspicious network activity.
+Used Nmap to identify:
+- Open Ports
+- Running Services
+- Software Versions
+- Known Vulnerabilities
 
-Features:
-- Custom rule creation
-- ICMP detection
-- Network monitoring
+Environment:
+Kali Linux (Virtual Lab)
+
+Purpose:
+Educational use only in controlled environment.
