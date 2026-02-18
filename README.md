@@ -1,13 +1,11 @@
-🔍 System Vulnerability Scanner Lab
+Snort Intrusion Detection Lab
 
-Used Nmap to identify:
-- Open Ports
-- Running Services
-- Software Versions
-- Known Vulnerabilities
+I installed and used Snort IDS in Kali Linux to monitor network traffic.
 
-Environment:
-Kali Linux (Virtual Lab)
+Steps:
+- Installed Snort
+- Ran Snort in console mode
+- Generated traffic using ping
+- Observed real-time monitoring
 
-Purpose:
-Educational use only in controlled environment.
+This project helped me understand intrusion detection basics.
